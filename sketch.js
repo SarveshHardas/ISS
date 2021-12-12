@@ -133,7 +133,7 @@ function draw() {
  textSize(15)
  text("Press up arrow for brushing.",25,65);
  textSize(15)
- text("Press down arrow for gyming.",25,80);
+ text("Press down arrow for doing exercise.",25,80);
  textSize(15)
  text("Press left arrow for eating.",25,95);
  textSize(15)
